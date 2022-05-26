@@ -1,2 +1,13 @@
-# Mini-DOM-Projects
-Mini DOM projects is about how to dynamically access and update the content, structure, and style of a document.
+<h1 align="center">Mini DOM Projects</h1>
+<p align="center">Dynamically access and update the content, structur and style of a document</p>
+
+## Introduction
+
+<p>
+Mini DOM Projects is a repository of mini Javascript projects which will help us to understand the interaction of Javascript and how we can dynamically access and update the content, structure, style of a document. These mini projects idea collected from different sources.
+</p>
+
+## Contents
+| # | Project Name | Sorce Code |
+|---| ------------ | ---------- |
+1 | Change Background Color | [Code](./Change-Background) |
