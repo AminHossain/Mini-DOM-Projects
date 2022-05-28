@@ -11,3 +11,4 @@ Mini DOM Projects is a repository of mini Javascript projects which will help us
 | # | Project Name | Project Link |
 |---| ------------ | ------------ |
 1 | Change Background Color | [Source Code](./Change-Background) |
+2 | Quote Generator | [Source Code](./Quote-Generator) |
