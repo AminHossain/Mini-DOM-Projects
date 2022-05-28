@@ -8,6 +8,6 @@ Mini DOM Projects is a repository of mini Javascript projects which will help us
 </p>
 
 ## Contents
-| # | Project Name | Sorce Code |
-|---| ------------ | ---------- |
-1 | Change Background Color | [Code](./Change-Background) |
+| # | Project Name | Project Link |
+|---| ------------ | ------------ |
+1 | Change Background Color | [Source Code](./Change-Background) |
