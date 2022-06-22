@@ -49,3 +49,8 @@ h1 {
 		1px 1px 0 #fff;
 	text-align: center;
 }
+
+svg {
+	height: 400px;
+	width: auto;
+}

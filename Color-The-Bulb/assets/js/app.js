@@ -1,5 +1,5 @@
 /**
- * Changing the background color.
+ * Changing the bulb color.
  */
 
 window.onload = () => {
@@ -7,12 +7,12 @@ window.onload = () => {
 }
 
 function main() {
-    const root = document.getElementById("root");
+    const element = document.getElementsByClassName("st0");
     const btn = document.getElementById("change-color");
 
     btn.addEventListener("click", function() {
-        let bgColor = generateRGBColor();
-        root.style.backgroundColor = bgColor;
+        let color = generateRGBColor();
+        element[0].setAttribute("style", `fill: ${color}`);
     })
 }
 
